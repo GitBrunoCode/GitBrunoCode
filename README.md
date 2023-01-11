@@ -32,6 +32,6 @@ I am also doing a double degree in partnership with the École de Management Lé
 
 <br><br>
 
-### 🎯 Goal and Future:
+### 📧 Contact:
 
-- My goal is to find an end-of-study internship in the field of Data Science, do not hesitate to contact me via [Linkedin](https://www.linkedin.com/in/bruno-pincet/) 📧
+- Do not hesitate to contact me via [Linkedin](https://www.linkedin.com/in/bruno-pincet/) 
